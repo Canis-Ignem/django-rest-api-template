@@ -1,2 +1,1 @@
-# recipe-app-api
-Recipy API Project
+# django-api-template
